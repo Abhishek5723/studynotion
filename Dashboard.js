@@ -1,7 +1,9 @@
 import React from 'react'
 
-export default function Dashboard() {
+ const Dashboard = () => {
   return (
-    <div className='flex justify-center items-center'>Welcome to StudyNotion</div>
+    <div className='flex justify-center items-center'>
+    Welcome to StudyNotion</div>
   )
 }
+export default Dashboard;
